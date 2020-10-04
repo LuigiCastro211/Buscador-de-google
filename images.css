@@ -1,0 +1,25 @@
+.logo{
+    margin: auto;
+    width: 50%;
+    padding-top: 200px;
+    align-content: center;
+}
+.main{
+    margin: auto;
+    width: 50%;
+    align-content: center;
+    padding: 10px;
+}
+.text-busqueda{
+    padding: 10px 62px 5px;
+    align-content: center;
+ 
+}
+.btn{
+    padding: 8px 5px;
+    align-content: center;
+}
+.logo-subtext{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
